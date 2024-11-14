@@ -128,16 +128,5 @@ footer{
     }
 }
 
-/*desktops*/
-@media screen and (min-width: 1441px) {
-    .product-list {
-        justify-content: space-around;
-    }
-    .product {
-        width: clamp(250px, 30%, 350px); 
-        padding: 2% 2%;
-    }
-}
-
 
 
