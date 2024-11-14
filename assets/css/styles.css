@@ -81,7 +81,7 @@ footer{
 }
 
 
-/* phones portrait */
+/*phones portrait*/
 @media screen and (max-width: 600px) {
     header {
         padding: 10%;
@@ -99,7 +99,7 @@ footer{
     }
 }
 
-/*tablets */
+/*tablets*/
 @media screen and (max-width: 1024px) {
     nav {
         padding: 0 20%;
@@ -114,7 +114,7 @@ footer{
     }
 }
 
-/* larger tablets or small laptops*/
+/*small laptops*/
 @media screen and (max-width: 1440px) {
     nav {
         padding: 0 15%;
@@ -128,7 +128,7 @@ footer{
     }
 }
 
-/* desktops*/
+/*desktops*/
 @media screen and (min-width: 1441px) {
     .product-list {
         justify-content: space-around;
