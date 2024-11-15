@@ -6,7 +6,7 @@ body{
 
 
 header {
-    background-color: rgb(205, 244, 205);
+    background-color: #d9eed9;
     padding: 3%;
 
 }
@@ -28,7 +28,7 @@ nav {
     padding: 0 30% 0 30% ;
 }
 nav a{
-    color: rgb(64, 101, 8);
+    color: #4CAF50;
     text-decoration: none;
 }
 nav a{
@@ -75,7 +75,7 @@ img{
 }
 
 footer{
-    background-color: green;
+    background-color: #124314;
     padding: 1%;
     text-align: center;
 }
